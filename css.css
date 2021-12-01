@@ -1,0 +1,19 @@
+.bg
+{
+  color: white;
+  background-color:darkslategrey;
+  padding: 0.5%;
+  font-family: monospace;
+}
+
+.linkstyle
+{
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 10px white;
+  background-color:darkslategrey;
+  padding: 0.5%;
+  font-family: monospace;
+}
